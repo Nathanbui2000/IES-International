@@ -9,8 +9,8 @@ const Hero = () =>
                 <div className = 'hero_content'>
                     <div>
                         <h2>We're Creating Perfect</h2>
-                        <h2>Digital Products To </h2>
-                        <h2 className = 'highlight'> Promote Your  Brand</h2>
+                        <h2>Visa Application </h2>
+                        <h2 className = 'highlight'>Achieve Your Goals</h2>
                     </div>
                     <p className = 'description'>asdawdasdawdsad awd as daw dsa aw dwa sda wn asdasd a sd as da sd as da d as d as das asd as d asd as das s d</p>
                     <div className = 'hero_btns'>

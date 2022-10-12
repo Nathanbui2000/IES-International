@@ -33,7 +33,7 @@ const Header = () =>
             <div className= 'container'>
                 <div className = 'nav_wrapper'>
                     <div className = 'logo'>
-                        <h2>Digency</h2>
+                        <h2>IES International </h2>
                     </div>
                     {/* =========== navigation===========*/}
                     <div className = 'navigation'>
