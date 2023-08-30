@@ -18,8 +18,8 @@ const nav_links = [
         display:"Service"
     },
     {
-        path:"#project",
-        display:"Project"
+        path:"#team",
+        display:"Team"
     },
     {
         path:"#blog",
