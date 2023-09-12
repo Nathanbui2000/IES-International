@@ -7,15 +7,17 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    column-gap: 2.5rem;
+    column-gap: 1rem;
+    width: 95%;
 }
 .service_item {
     background: var(--card-bg);
-    width: 22%;
-    padding: 35px 15px;
+    width: 20%;
+    padding: 30px 15px;
     text-align: center;
     border-radius: .5rem;
     cursor: pointer;
+    
 }
 
 .service_icon{

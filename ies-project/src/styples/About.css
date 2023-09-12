@@ -37,9 +37,10 @@
 }
 .about_wrapper{
     display: flex;
+    width: 95%;
     column-gap: 2rem;
 }
 .about_content,.about_image{
-    width: 100%;
+    width: 50%;
     height: 20%;
 }

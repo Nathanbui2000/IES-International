@@ -30,7 +30,7 @@
 .light_mode span {
     color: #fff;
     display: flex;
-    align-items: center;
+    align-items: left;
     column-gap: 0.4rem;
     font-size: 0.8rem;
 }
